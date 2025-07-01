@@ -213,4 +213,4 @@ https://drive.google.com/file/d/1E-etBy6LQBjYImhFCV2Dn4yPy7Dff6za/view?usp=shari
 ## Contact
 Harsh Vardhan Saini - hvardhnaharsh07@gmail.com 
 
-Project Link - 
+Project Link - https://github.com/Cat-sauce/resume-analyzer
