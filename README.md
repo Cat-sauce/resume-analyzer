@@ -28,7 +28,7 @@
 
 ---
 
-## 📘 About the Project
+## About the Project
 
 **Resume Analyzer** is a smart web-based tool that helps job seekers optimize their resumes for targeted job fields or specific Job Descriptions (JDs). By leveraging NLP and AI-powered keyword analysis, the system evaluates how well a resume aligns with industry standards and recruiter expectations.
 
@@ -36,7 +36,7 @@ The goal is to increase a candidate’s chances of passing through automated scr
 
 ---
 
-## ✨ Features
+## Features
 
 - 📄 **Resume Upload:** Accepts `.pdf`, `.docx`, and `.txt` file formats.
 - 🔍 **Job Field Selection:** Choose from a predefined list of popular job categories.
@@ -49,7 +49,7 @@ The goal is to increase a candidate’s chances of passing through automated scr
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Frontend
 
@@ -73,9 +73,9 @@ The goal is to increase a candidate’s chances of passing through automated scr
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
-### 📌 Prerequisites
+### Prerequisites
 
 Ensure you have the following installed:
 
@@ -86,12 +86,12 @@ Ensure you have the following installed:
 
 ---
 
-### 🖥️ Backend Setup
+### Backend Setup
 
 1. **Clone the repository:**
 
 ```bash
-git clone <https://github.com/Cat-sauce/resume-analyzer/tree/main>
+git clone <your-repository-url>
 cd resume-analyzer/backend
 ```
 
@@ -100,7 +100,7 @@ cd resume-analyzer/backend
 ```bash
 # Windows
 python -m venv venv
-.\venv\Scripts\activate
+.env\Scriptsctivate
 
 # macOS/Linux
 python3 -m venv venv
@@ -147,7 +147,7 @@ By default, the backend will run on `http://127.0.0.1:5000`.
 
 ---
 
-### 🌐 Frontend Setup
+### Frontend Setup
 
 1. **Navigate to the frontend directory:**
 
@@ -175,7 +175,7 @@ This launches the frontend at `http://localhost:3000`.
 
 ---
 
-## 🧪 Usage
+## Usage
 
 1. Ensure both backend (`localhost:5000`) and frontend (`localhost:3000`) servers are running.
 2. Open the app in your browser.
@@ -187,28 +187,31 @@ This launches the frontend at `http://localhost:3000`.
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 [Click to View Folder Structure](https://drive.google.com/file/d/1E-etBy6LQBjYImhFCV2Dn4yPy7Dff6za/view?usp=sharing)
 
 ---
 
-## 🧧 Preview
-
-[(<2025-06-29 23 45 18.png>)](https://drive.google.com/file/d/1hfjtlS6oDH8Z3_xEvbhzV9nPAuDYREQu/view?usp=drive_link)
-
----
-
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
 
 ---
 
-## 📬 Contact
+## Contact
 
 **Harsh Vardhan Saini**  
 📧 hvardhnaharsh07@gmail.com  
 🔗 [GitHub Repository](https://github.com/Cat-sauce/resume-analyzer)
 
 ---
+
+## Suggestions for Improvement
+
+1. **Demo Video or Screenshots** – Consider embedding a short screen recording or animated GIF showing the app in action.
+2. **Deploy Online** – Use platforms like **Vercel** (frontend) and **Render/Heroku/Back4App** (backend) to host the application for public use.
+3. **CI/CD** – Add GitHub Actions to automate linting or test builds.
+4. **Test Coverage** – Introduce some unit or integration tests.
+5. **Accessibility Features** – Add ARIA tags and keyboard navigation.
+6. **Dark Mode** – Consider UI toggle for light/dark themes.
