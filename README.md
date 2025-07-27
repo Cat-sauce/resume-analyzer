@@ -14,18 +14,6 @@
 - [License](#license)
 - [Contact](#contact)
 
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Backend Setup](#backend-setup)
-  - [Frontend Setup](#frontend-setup)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
-- [License](#license)
-- [Contact](#contact)
-
 ---
 
 ## About the Project
@@ -91,7 +79,7 @@ Ensure you have the following installed:
 1. **Clone the repository:**
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/Cat-sauce/resume-analyzer/tree/main>
 cd resume-analyzer/backend
 ```
 
@@ -100,7 +88,7 @@ cd resume-analyzer/backend
 ```bash
 # Windows
 python -m venv venv
-.env\Scriptsctivate
+.\venv\Scripts\activate
 
 # macOS/Linux
 python3 -m venv venv
@@ -187,9 +175,15 @@ This launches the frontend at `http://localhost:3000`.
 
 ---
 
-## Project Structure
+## 🗂️ Project Structure
 
 [Click to View Folder Structure](https://drive.google.com/file/d/1E-etBy6LQBjYImhFCV2Dn4yPy7Dff6za/view?usp=sharing)
+
+---
+
+## 🧧 Preview
+
+[(<2025-06-29 23 45 18.png>)](https://drive.google.com/file/d/1hfjtlS6oDH8Z3_xEvbhzV9nPAuDYREQu/view?usp=drive_link)
 
 ---
 
