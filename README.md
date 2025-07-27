@@ -88,7 +88,7 @@ cd resume-analyzer/backend
 ```bash
 # Windows
 python -m venv venv
-.env\Scriptsctivate
+.\venv\Scripts\activate
 
 # macOS/Linux
 python3 -m venv venv
