@@ -175,7 +175,7 @@ This launches the frontend at `http://localhost:3000`.
 
 ---
 
-## 🗂️ Project Structure
+## 🗂️Project Structure
 
 [Click to View Folder Structure](https://drive.google.com/file/d/1E-etBy6LQBjYImhFCV2Dn4yPy7Dff6za/view?usp=sharing)
 
