@@ -14,6 +14,18 @@
 - [License](#license)
 - [Contact](#contact)
 
+- [About the Project](#about-the-project)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Backend Setup](#backend-setup)
+  - [Frontend Setup](#frontend-setup)
+- [Usage](#usage)
+- [Project Structure](#project-structure)
+- [License](#license)
+- [Contact](#contact)
+
 ---
 
 ## 📘 About the Project
