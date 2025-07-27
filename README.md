@@ -175,13 +175,13 @@ This launches the frontend at `http://localhost:3000`.
 
 ---
 
-## 🗂Project Structure
+## Project Structure
 
 [Click to View Folder Structure](https://drive.google.com/file/d/1E-etBy6LQBjYImhFCV2Dn4yPy7Dff6za/view?usp=sharing)
 
 ---
 
-## 🧧 Preview
+## Preview
 
 [(<2025-06-29 23 45 18.png>)](https://drive.google.com/file/d/1hfjtlS6oDH8Z3_xEvbhzV9nPAuDYREQu/view?usp=drive_link)
 
